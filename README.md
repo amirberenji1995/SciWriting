@@ -18,7 +18,8 @@ The main focal points of each phase is illustrated within the **Figure 1**:
 Accoding to the instructor, time should be divided between these phases, accoding to **Figure 2**
 
 ![alt text](./time-allocation.jpg)
-*Figure1 - Phases of writing a research article and their main focal points*
+
+*Figure2 - Phases and their corresponding time share*
 
 ## Prewriting Tips
 
