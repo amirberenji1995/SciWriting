@@ -5,10 +5,10 @@ This is my personal summary of the process of writing scientific articles accord
 This course divides the process of writing research articles to the follwoing phases:
 
 
-    1. Prewriting
-    2. Writing
-    3. Revision
-    4. Consistency Check
+1. Prewriting
+2. Writing
+3. Revision
+4. Consistency Check
 
 The main focal points of each phase is illustrated within the **Figure 1**:
 
